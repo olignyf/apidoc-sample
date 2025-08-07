@@ -1,5 +1,5 @@
 {
-  "name": "apidoc-bug-demo",
+  "name": "apidoc-sample",
   "version": "1.0.0",
   "description": "Minimal Express project to demonstrate apidoc bug.",
   "main": "index.js",
