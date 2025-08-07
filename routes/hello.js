@@ -3,6 +3,7 @@ const router = express.Router();
 
 /**
  * @api {get} /hello Say Hello
+ * @apiVersion 1.0.0
  * @apiName GetHello
  * @apiGroup Example
  *

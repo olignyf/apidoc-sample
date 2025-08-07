@@ -1,0 +1,7 @@
+{
+  "name": "apidoc-sample",
+  "version": "1.0.0",
+  "description": "Sample API documentation for apidoc",
+  "title": "Acme project",
+  "url": "http://localhost:3000"
+}
